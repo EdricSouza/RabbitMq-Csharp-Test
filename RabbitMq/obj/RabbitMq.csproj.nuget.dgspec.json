@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitTest\\RabbitTest.csproj": {}
+    "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\RabbitMq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitTest\\RabbitTest.csproj": {
+    "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\RabbitMq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitTest\\RabbitTest.csproj",
-        "projectName": "RabbitTest",
-        "projectPath": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitTest\\RabbitTest.csproj",
+        "projectUniqueName": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\RabbitMq.csproj",
+        "projectName": "RabbitMq",
+        "projectPath": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\RabbitMq.csproj",
         "packagesPath": "C:\\Users\\edric.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitTest\\obj\\",
+        "outputPath": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
