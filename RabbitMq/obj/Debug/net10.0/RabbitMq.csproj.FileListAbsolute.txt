@@ -13,3 +13,8 @@ C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\refint\R
 C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\RabbitMq.pdb
 C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\RabbitMq.genruntimeconfig.cache
 C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\ref\RabbitMq.dll
+C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\bin\Debug\net10.0\Amqp.Net.dll
+C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\bin\Debug\net10.0\Amqp.WebSockets.Client.dll
+C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\bin\Debug\net10.0\RabbitMQ.AMQP.Client.dll
+C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\RabbitMq.csproj.AssemblyReference.cache
+C:\Users\edric.souza\source\repos\RabbitMqC#\RabbitMq\obj\Debug\net10.0\RabbitMq.csproj.Up2Date
