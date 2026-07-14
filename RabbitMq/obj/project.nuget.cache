@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jf0Up4H3TTU=",
+  "dgSpecHash": "VLsPz/3zPco=",
   "success": true,
   "projectFilePath": "C:\\Users\\edric.souza\\source\\repos\\RabbitMqC#\\RabbitMq\\RabbitMq.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\edric.souza\\.nuget\\packages\\amqpnetlite.core\\2.5.2\\amqpnetlite.core.2.5.2.nupkg.sha512",
+    "C:\\Users\\edric.souza\\.nuget\\packages\\amqpnetlite.websockets\\2.5.2\\amqpnetlite.websockets.2.5.2.nupkg.sha512",
+    "C:\\Users\\edric.souza\\.nuget\\packages\\rabbitmq.amqp.client\\1.2.0\\rabbitmq.amqp.client.1.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
