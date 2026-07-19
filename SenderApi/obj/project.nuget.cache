@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbBg7SbFqHA=",
+  "success": true,
+  "projectFilePath": "/home/edric/RabbitMq-Csharp-Test/SenderApi/SenderApi.csproj",
+  "expectedPackageFiles": [
+    "/home/edric/.nuget/packages/amqpnetlite.core/2.5.2/amqpnetlite.core.2.5.2.nupkg.sha512",
+    "/home/edric/.nuget/packages/amqpnetlite.websockets/2.5.2/amqpnetlite.websockets.2.5.2.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.aspnetcore.openapi/10.0.10/microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "/home/edric/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/rabbitmq.amqp.client/1.2.0/rabbitmq.amqp.client.1.2.0.nupkg.sha512",
+    "/home/edric/.nuget/packages/rabbitmq.client/7.2.1/rabbitmq.client.7.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "/home/edric/RabbitMq-Csharp-Test/SenderApi/SenderApi.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/edric/RabbitMq-Csharp-Test/SenderApi/SenderApi.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
